@@ -21,8 +21,6 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/QQ%E7%BE%A4-1048143135-12B7F5?style=for-the-badge&logo=qq&logoColor=white" alt="QQ 交流群 1048143135" />
-  &nbsp;
   <a href="https://t.me/TIANTIANAIPRO">
     <img src="https://img.shields.io/badge/Telegram-@TIANTIANAIPRO-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @TIANTIANAIPRO" />
   </a>
@@ -276,7 +274,6 @@ node --check webui/static/app.js
 
 ## 支持
 
-- QQ 群：`1048143135`
 - Telegram：[@TIANTIANAIPRO](https://t.me/TIANTIANAIPRO)
 
 ## 🔗 Friend Links
